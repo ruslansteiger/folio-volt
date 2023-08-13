@@ -3,12 +3,10 @@
     <head>
         <meta charset="utf-8" />
         <meta name="viewport" content="width=device-width, initial-scale=1" />
-
-        <title>{{ config('app.name') }}</title>
-
-        <script src="https://cdn.tailwindcss.com"></script>
+        <title>Laravel</title>
+        @vite("resources/css/app.css")
     </head>
-    <body class="grid min-h-full place-content-center antialiased">
-        {{ $slot }}
+    <body class="flex justify-center py-20 antialiased">
+        <main>{{ $slot }}</main>
     </body>
 </html>

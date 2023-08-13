@@ -1,4 +1,4 @@
-<div class="mt-4 flex gap-4 text-3xl font-bold">
+<div class="mt-10 space-y-2 text-center text-5xl font-bold">
     <button wire:click="increment">+</button>
     <h1>{{ $count }}</h1>
 </div>

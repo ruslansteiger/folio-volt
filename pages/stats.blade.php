@@ -1,5 +1,5 @@
-<x-layout>
+<x-layout.default>
     <livewire:expenses />
 
     @livewireChartsScripts
-</x-layout>
+</x-layout.default>

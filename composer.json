@@ -1,29 +1,25 @@
 {
-    "name": "laravel/laravel",
+    "name": "ruslansteiger/folio-volt",
     "type": "project",
-    "description": "The skeleton application for the Laravel framework.",
-    "keywords": ["laravel", "framework"],
-    "license": "MIT",
     "require": {
         "php": "^8.2",
-        "asantibanez/livewire-charts": "^3.0",
-        "calebporzio/sushi": "^2.4",
+        "calebporzio/sushi": "^2.4.4",
         "guzzlehttp/guzzle": "^7.7",
         "laravel/folio": "^1.0@beta",
-        "laravel/framework": "^10.18",
+        "laravel/framework": "^10.19",
         "laravel/sanctum": "^3.2.5",
         "laravel/tinker": "^2.8.1",
         "livewire/livewire": "^3.0@beta",
         "livewire/volt": "^1.0@beta",
-        "spatie/laravel-ray": "^1.32"
+        "spatie/laravel-ray": "^1.32.6"
     },
     "require-dev": {
         "fakerphp/faker": "^1.23.0",
-        "laravel/pint": "^1.10.6",
-        "laravel/sail": "^1.23.2",
+        "laravel/pint": "^1.11.0",
+        "laravel/sail": "^1.23.3",
         "mockery/mockery": "^1.6.6",
         "nunomaduro/collision": "^7.8.1",
-        "phpunit/phpunit": "^10.3.1",
+        "phpunit/phpunit": "^10.3.2",
         "spatie/laravel-ignition": "^2.2"
     },
     "autoload": {

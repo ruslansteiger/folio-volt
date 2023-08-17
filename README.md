@@ -4,7 +4,7 @@ The source code for the talk.
 
 ### 🎫 Meetup Event Page: https://www.meetup.com/laravel-switzerland-meetup/events/295110072/
 
-### 📹 YouTube Recording: https://youtu.be/...
+### 📹 YouTube Recording: https://youtu.be/QlcBAveTdtk
 
 ### 📝️ Further reading:
 
